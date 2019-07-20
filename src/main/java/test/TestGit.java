@@ -14,7 +14,7 @@ public class TestGit {
 
 	private static void tt() {
 		System.out.println("666666666");
-		
+		System.out.println("");
 	}
 	
 }
